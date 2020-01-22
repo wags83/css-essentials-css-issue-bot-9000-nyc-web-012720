@@ -9,12 +9,12 @@ h1 {
 
 h2 {
   color: green;
-  font-weight: normal
+  font-weight: normal;
   font-style: italic;
 }
 
 .completed {
-  font-family: 12px;
+  font-family: arial;
 }
 
 #tasks .completed {
